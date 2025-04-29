@@ -2,7 +2,7 @@
 
 - 🔭 Perteneciente al Instituto Politecnico Nacional
 - 🌱 Ingeniero en Telemática - Estudiante de Maestría en Tecnología Avanzada
-- 😄 Programador novato
+- 😄 Programador
 - ⚡ Español - Ingles - Portugues
 - 📬 alanrosasp@gmail.com
 
