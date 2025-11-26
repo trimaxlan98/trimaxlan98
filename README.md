@@ -1,35 +1,54 @@
-### Hola!! 👋
+# Portafolio de Ciberseguridad & Web3 - Alan Rosas
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Pentesting-red)
+![Web3](https://img.shields.io/badge/Tech-Web3%20%26%20Blockchain-blue)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-green)
 
-- 🔭 Perteneciente al Instituto Politecnico Nacional
-- 🌱 Ingeniero en Telemática - Estudiante de Maestría en Tecnología Avanzada
-- 😄 Programador
-- ⚡ Español - Ingles - Portugues
-- 📬 alanrosasp@gmail.com
+**Ingeniero en Telemática | Investigador de Maestría (IPN) | Especialista en Seguridad Ofensiva**
 
-<div align="center">
-  <a href="https://github.com/trimaxlan98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trimaxlan98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimaxlan98&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+> Este repositorio documenta casos de estudio técnicos, metodologías de auditoría y proyectos de investigación en ciberdefensa.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  
-  ##
-  
-  
-  
-<div> 
-  <a href="https://www.instagram.com/arp2fs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alanrosasp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+## 🛠 Arsenal Técnico
+
+| Dominio | Herramientas y Tecnologías |
+| :--- | :--- |
+| **Auditoría & Pentesting** | Metasploit, Burp Suite, Nmap, Wireshark, Kali Linux, SDR |
+| **Web3 Security** | Smart Contract Auditing, Post-Quantum Crypto, EVM, Solidity |
+| **Infraestructura** | Linux Hardening (RHEL/Debian), Docker, Qubernetes, WAF/Firewalls |
+| **Desarrollo** | Python (SecScripts), C/C++, Bash |
+
+---
+
+## 📂 Casos de Estudio Selectos
+
+### 1. Sistema de Ciberdefensa Cognitiva Satelital 🛰️
+*(En colaboración con CIDEFAM / Proceso de Patente)*
+
+**El Reto:** Proteger enlaces satelitales críticos contra guerra electrónica y ataques de denegación de servicio en entornos de alta latencia.
+
+**Solución Técnica:**
+- Desarrollo de un **Sistema de Defensa Cognitiva** utilizando Python y Machine Learning.
+- Análisis de patrones de tráfico en tiempo real para detección de anomalías.
+- Implementación de protocolos propietarios para soberanía tecnológica.
+
+**Metodología:** `Traffic Analysis` -> `Anomaly Detection` -> `Automated Mitigation`
+
+---
+
+### 2. Seguridad Web3 y Algoritmos Post-Cuánticos ⛓️
+**El Reto:** Auditar la resistencia de sistemas blockchain actuales frente a la amenaza de la computación cuántica.
+
+**Detalles Técnicos:**
+- **Auditoría de Smart Contracts:** Revisión de lógica para prevenir ataques de *Reentrancy* y *Front-running*.
+- **Criptografía PQC:** Implementación experimental de firmas digitales basadas en retículos (Lattice-based cryptography).
+- **Hardening de Nodos:** Aseguramiento de la infraestructura subyacente de la red blockchain.
+
+```solidity
+// Ejemplo conceptual: Validación de seguridad en contrato
+modifier nonReentrant() {
+    require(_status != _ENTERED, "ReentrancyGuard: reentrant call");
+    _status = _ENTERED;
+    _;
+    _status = _NOT_ENTERED;
+}
