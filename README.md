@@ -27,7 +27,7 @@ Innovative engineer specialized in architecting intelligent systems that bridge 
 ### 1. Satellite Cognitive Cyberdefense System 🛰️
 *(Research in collaboration with Mexican Space Agency & CIDEFAM)*
 
-**The Challenge:** Protecting critical Ku and Ka-band satellite links against electronic warfare and jamming in high-latency environments. [cite: 39, 40]
+**The Challenge:** Protecting critical Ku and Ka-band satellite links against electronic warfare and jamming in high-latency environments.
 
 **The AI Solution:**
 - Developed a **Machine Learning-driven defense framework** for real-time traffic analysis and anomaly detection. 
