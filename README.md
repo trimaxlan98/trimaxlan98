@@ -4,9 +4,9 @@
 ![Web3](https://img.shields.io/badge/Tech-Web3%20%26%20Blockchain-blue)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-green)
 
-**M.S. in Advanced Technology | Telematics Engineer | [cite_start]AI & Security Researcher** [cite: 7, 15, 19]
+**M.S. in Advanced Technology | Telematics Engineer | [cite_start]AI & Security Researcher** 
 
-Innovative engineer specialized in architecting intelligent systems that bridge the gap between **Generative AI**, **Cyberdefense**, and **Decentralized Systems**. [cite_start]I focus on building resilient, autonomous software environments using agentic workflows and advanced cryptographic standards. [cite: 7, 8, 39]
+Innovative engineer specialized in architecting intelligent systems that bridge the gap between **Generative AI**, **Cyberdefense**, and **Decentralized Systems**. [cite_start]I focus on building resilient, autonomous software environments using agentic workflows and advanced cryptographic standards. 
 
 ---
 
@@ -25,14 +25,14 @@ Innovative engineer specialized in architecting intelligent systems that bridge 
 ## 📂 Featured Case Studies
 
 ### 1. Satellite Cognitive Cyberdefense System 🛰️
-[cite_start]*(Research in collaboration with Mexican Space Agency & CIDEFAM)* [cite: 28, 29]
+*(Research in collaboration with Mexican Space Agency & CIDEFAM)*
 
-[cite_start]**The Challenge:** Protecting critical Ku and Ka-band satellite links against electronic warfare and jamming in high-latency environments. [cite: 39, 40]
+**The Challenge:** Protecting critical Ku and Ka-band satellite links against electronic warfare and jamming in high-latency environments. [cite: 39, 40]
 
 **The AI Solution:**
-- [cite_start]Developed a **Machine Learning-driven defense framework** for real-time traffic analysis and anomaly detection. [cite: 39, 40]
-- [cite_start]Implemented automated mitigation strategies to maintain link integrity during active interference. [cite: 39]
-- [cite_start]**Key Outcome:** Published research on dynamic anti-jamming strategies presented at **WITCOM 2025**. [cite: 40, 41]
+- Developed a **Machine Learning-driven defense framework** for real-time traffic analysis and anomaly detection. 
+- Implemented automated mitigation strategies to maintain link integrity during active interference. 
+- **Key Outcome:** Published research on dynamic anti-jamming strategies presented at **WITCOM 2025**. 
 
 ---
 
@@ -57,16 +57,16 @@ Innovative engineer specialized in architecting intelligent systems that bridge 
 ---
 
 ## 📚 Publications & Research
-* [cite_start]**"Machine Learning-Driven Cyberdefense for Dynamic Anti-jamming Strategies in Ku and Ka Band Satellite Links"** - WITCOM 2025 [cite: 40]
-* [cite_start]**"Design of a Scientific Experiment Aboard a 3U CubeSat for Pollutant Detection"** - 31st IAA Symposium, Milan [cite: 38]
-* [cite_start]**"Radiofrequency and optical satellite link budgeting calculator"** - Journal of Physics (IOP Science) [cite: 36]
+* **"Machine Learning-Driven Cyberdefense for Dynamic Anti-jamming Strategies in Ku and Ka Band Satellite Links"** - WITCOM 2025 
+* **"Design of a Scientific Experiment Aboard a 3U CubeSat for Pollutant Detection"** - 31st IAA Symposium, Milan 
+* **"Radiofrequency and optical satellite link budgeting calculator"** - Journal of Physics (IOP Science) 
 
 ---
 
 ## 🔗 Connect with me
-- [cite_start]**LinkedIn:** [alanrosasp](https://www.linkedin.com/in/alan-rosas-palacios-1998-mexico) [cite: 4]
-- [cite_start]**Portfolio Email:** [alanrosasp@gmail.com](mailto:alanrosasp@gmail.com) [cite: 4]
-- [cite_start]**GitHub:** [trimaxlan98](https://github.com/trimaxlan98) [cite: 5]
+- **LinkedIn:** [alanrosasp](https://www.linkedin.com/in/alan-rosas-palacios-1998-mexico)
+- **Portfolio Email:** [alanrosasp@gmail.com](mailto:alanrosasp@gmail.com) 
+- **GitHub:** [trimaxlan98](https://github.com/trimaxlan98) 
 
 ---
 *"Building the future of secure, autonomous intelligence."*
